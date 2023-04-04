@@ -13,6 +13,6 @@ The extension does not collect, transmit or share user data. It just reads page 
 
 ## Support
 
-Please report any issues with phishdetector by filing an issue on [issues]() page.
+Please report any issues with phishdetector by filing an issue on [issues](https://github.com/prakhar1535/Safety-plus/issues) page.
 
 
